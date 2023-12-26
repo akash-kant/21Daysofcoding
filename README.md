@@ -7,5 +7,5 @@ During this challenge, I committed to solving at least one coding problem each d
 Each day's solution is organized in separate files, each file named after the problem.
 The code is written in Java.
 Clear and concise comments accompany the code for better understanding.
-# Why 11DaysOfCoding?
-Participating in the 11DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives.
+# Why 21DaysOfCoding?
+Participating in the 21DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives.
