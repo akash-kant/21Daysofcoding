@@ -9,3 +9,9 @@ The code is written in Java.
 Clear and concise comments accompany the code for better understanding.
 # Why 21DaysOfCoding?
 Participating in the 21DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives.
+# links
+
+[https://leetcode.com/problems/product-of-array-except-self/]
+[https://leetcode.com/problems/maximum-product-subarray/]
+[https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/]
+[https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp]
