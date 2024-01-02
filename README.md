@@ -19,3 +19,4 @@ Participating in the 21DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://leetcode.com/problems/container-with-most-water/]
 * [https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/]
 * [https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1]
+* [https://www.geeksforgeeks.org/merging-intervals/]
