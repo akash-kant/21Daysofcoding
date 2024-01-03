@@ -11,6 +11,20 @@ Clear and concise comments accompany the code for better understanding.
 # Why 21DaysOfCoding?
 Participating in the 21DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives.
 
+# 11 days folder links
+
+* [https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279]
+* [https://www.codingninjas.com/studio/problems/second-largest-element-in-the-array_873375]
+* [https://leetcode.com/problems/maximum-subarray/]
+* [https://leetcode.com/problems/contains-duplicate/]
+* [https://www.geeksforgeeks.org/chocolate-distribution-problem/]
+* [https://leetcode.com/problems/search-in-rotated-sorted-array/]
+* [https://leetcode.com/problems/next-permutation/]
+* [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/]
+* [https://leetcode.com/problems/kth-largest-element-in-an-array/]
+* [https://www.interviewbit.com/problems/repeat-and-missing-number-array/]
+* [https://leetcode.com/problems/trapping-rain-water/]
+  
 # links
 
 * [https://leetcode.com/problems/product-of-array-except-self/]
